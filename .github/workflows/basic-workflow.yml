@@ -3,7 +3,7 @@ name: Continuous integration example
 on: 
   pull_request:
       branches:
-          -ejercicio1
+          -main
 
 jobs:
 
